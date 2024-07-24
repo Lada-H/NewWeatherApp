@@ -1,0 +1,28 @@
+﻿<Page x:Class="WeatherApp.DetailPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WeatherApp"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="DetailPage">
+
+	<Grid Width="600" Height="200">
+		<!-- Fixní šířka a výška -->
+		<Grid.RowDefinitions>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition Height="Auto"/>
+		</Grid.RowDefinitions>
+
+		<!-- Label pro název města -->
+		<Label Name="CityLabel" FontSize="20" Margin="10" Grid.Row="0"/>
+
+		<!-- Label pro teplotu -->
+		<Label Name="TemperatureLabel" FontSize="16" Margin="10" Grid.Row="1"/>
+
+		<!-- Label pro popis počasí -->
+		<Label Name="DescriptionLabel" FontSize="16" Margin="10" Grid.Row="2"/>
+	</Grid>
+</Page>

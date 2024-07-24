@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ladislav.hochman\\source\\repos\\NewWeatherApp\\WeatherApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF233DDC-9A16-42CE-BFEF-1654D9D693FC}|WeatherApp\\WeatherApp.csproj|c:\\users\\ladislav.hochman\\source\\repos\\newweatherapp\\weatherapp\\weatherapp\\detailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF233DDC-9A16-42CE-BFEF-1654D9D693FC}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\detailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF233DDC-9A16-42CE-BFEF-1654D9D693FC}|WeatherApp\\WeatherApp.csproj|c:\\users\\ladislav.hochman\\source\\repos\\newweatherapp\\weatherapp\\weatherapp\\searchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF233DDC-9A16-42CE-BFEF-1654D9D693FC}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\searchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF233DDC-9A16-42CE-BFEF-1654D9D693FC}|WeatherApp\\WeatherApp.csproj|c:\\users\\ladislav.hochman\\source\\repos\\newweatherapp\\weatherapp\\weatherapp\\searchpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF233DDC-9A16-42CE-BFEF-1654D9D693FC}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\searchpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF233DDC-9A16-42CE-BFEF-1654D9D693FC}|WeatherApp\\WeatherApp.csproj|c:\\users\\ladislav.hochman\\source\\repos\\newweatherapp\\weatherapp\\weatherapp\\detailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF233DDC-9A16-42CE-BFEF-1654D9D693FC}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\detailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF233DDC-9A16-42CE-BFEF-1654D9D693FC}|WeatherApp\\WeatherApp.csproj|c:\\users\\ladislav.hochman\\source\\repos\\newweatherapp\\weatherapp\\weatherapp\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF233DDC-9A16-42CE-BFEF-1654D9D693FC}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF233DDC-9A16-42CE-BFEF-1654D9D693FC}|WeatherApp\\WeatherApp.csproj|c:\\users\\ladislav.hochman\\source\\repos\\newweatherapp\\weatherapp\\weatherapp\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF233DDC-9A16-42CE-BFEF-1654D9D693FC}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF233DDC-9A16-42CE-BFEF-1654D9D693FC}|WeatherApp\\WeatherApp.csproj|c:\\users\\ladislav.hochman\\source\\repos\\newweatherapp\\weatherapp\\weatherapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF233DDC-9A16-42CE-BFEF-1654D9D693FC}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF233DDC-9A16-42CE-BFEF-1654D9D693FC}|WeatherApp\\WeatherApp.csproj|c:\\users\\ladislav.hochman\\source\\repos\\newweatherapp\\weatherapp\\weatherapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF233DDC-9A16-42CE-BFEF-1654D9D693FC}|WeatherApp\\WeatherApp.csproj|solutionrelative:weatherapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\ladislav.hochman\\source\\repos\\NewWeatherApp\\WeatherApp\\WeatherApp\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\ladislav.hochman\\source\\repos\\NewWeatherApp\\WeatherApp\\WeatherApp\\DatabaseService.cs",
+              "RelativeToolTip": "WeatherApp\\DatabaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:42:37.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\ladislav.hochman\\source\\repos\\NewWeatherApp\\WeatherApp\\WeatherApp\\WeatherService.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\ladislav.hochman\\source\\repos\\NewWeatherApp\\WeatherApp\\WeatherApp\\WeatherService.cs",
+              "RelativeToolTip": "WeatherApp\\WeatherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:42:09.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetailPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ladislav.hochman\\source\\repos\\NewWeatherApp\\WeatherApp\\WeatherApp\\DetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\DetailPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ladislav.hochman\\source\\repos\\NewWeatherApp\\WeatherApp\\WeatherApp\\DetailPage.xaml.cs",
+              "RelativeToolTip": "WeatherApp\\DetailPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:41:23.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetailPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ladislav.hochman\\source\\repos\\NewWeatherApp\\WeatherApp\\WeatherApp\\DetailPage.xaml",
+              "RelativeDocumentMoniker": "WeatherApp\\DetailPage.xaml",
+              "ToolTip": "C:\\Users\\ladislav.hochman\\source\\repos\\NewWeatherApp\\WeatherApp\\WeatherApp\\DetailPage.xaml",
+              "RelativeToolTip": "WeatherApp\\DetailPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-24T13:40:57.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ladislav.hochman\\source\\repos\\NewWeatherApp\\WeatherApp\\WeatherApp\\SearchPage.xaml.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\SearchPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ladislav.hochman\\source\\repos\\NewWeatherApp\\WeatherApp\\WeatherApp\\SearchPage.xaml.cs",
+              "RelativeToolTip": "WeatherApp\\SearchPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:39:47.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ladislav.hochman\\source\\repos\\NewWeatherApp\\WeatherApp\\WeatherApp\\SearchPage.xaml",
+              "RelativeDocumentMoniker": "WeatherApp\\SearchPage.xaml",
+              "ToolTip": "C:\\Users\\ladislav.hochman\\source\\repos\\NewWeatherApp\\WeatherApp\\WeatherApp\\SearchPage.xaml",
+              "RelativeToolTip": "WeatherApp\\SearchPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-24T13:39:13.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ladislav.hochman\\source\\repos\\NewWeatherApp\\WeatherApp\\WeatherApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WeatherApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ladislav.hochman\\source\\repos\\NewWeatherApp\\WeatherApp\\WeatherApp\\MainWindow.xaml",
+              "RelativeToolTip": "WeatherApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-24T13:33:48.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ladislav.hochman\\source\\repos\\NewWeatherApp\\WeatherApp\\WeatherApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WeatherApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ladislav.hochman\\source\\repos\\NewWeatherApp\\WeatherApp\\WeatherApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WeatherApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:33:47.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
